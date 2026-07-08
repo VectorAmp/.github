@@ -12,10 +12,10 @@ VectorAmp is a data intelligence platform powered by a high-performance vector d
 ## SDKs
 
 - [VectorAmp CLI](https://github.com/VectorAmp/vectoramp-cli)
-- [Node.js SDK](https://github.com/VectorAmp/vectoramp-node)
 - [Python SDK](https://github.com/VectorAmp/vectoramp-python)
-- [LangChain VectorStore Integration](https://github.com/VectorAmp/langchain-vectoramp)
+- [Rust SDK](https://github.com/VectorAmp/vectoramp-rust)
+- [LangChain Integration](https://github.com/VectorAmp/langchain-vectoramp)
+- [Node.js SDK](https://github.com/VectorAmp/vectoramp-node)
 - [Go SDK](https://github.com/VectorAmp/vectoramp-go)
 - [Java SDK](https://github.com/VectorAmp/vectoramp-java)
 - [Ruby SDK](https://github.com/VectorAmp/vectoramp-ruby)
-- [Rust SDK](https://github.com/VectorAmp/vectoramp-rust)
